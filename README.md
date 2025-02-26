@@ -22,6 +22,7 @@ I'm a **Computer Science** student specializing in **Artificial Intelligence and
 ## 📜 Certifications
 
 - **Fundamentals of Deep Learning** - NVIDIA 🏆
+- **ZSCALERS - Zero Trust Certified Associate** 
 
 ## 📌 Roadmap
 
@@ -31,8 +32,8 @@ I'm a **Computer Science** student specializing in **Artificial Intelligence and
 
 ## 📫 Let's Connect
 
-- GitHub: [Your GitHub Link]
-- LinkedIn: [Your LinkedIn Link]
+- GitHub: (https://github.com/Janvisahu31)
+- LinkedIn:(https://www.linkedin.com/in/janvi-sahu-a058b2275/)
 
 Always open to collaboration and new ideas! 🚀
 
