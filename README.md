@@ -17,6 +17,7 @@ I'm a **Computer Science** student specializing in **Artificial Intelligence and
 
 - **🍽️ CookNextDoor:** A web-based food ordering system connecting customers and local vendors.
 - **🎥 Movie Recommendation System:** ML-based movie recommender built in Jupyter Notebook.
+- ** Image Caption Generator:** - Deep learning and NLP based image caption generator.
 
 
 ## 📜 Certifications
